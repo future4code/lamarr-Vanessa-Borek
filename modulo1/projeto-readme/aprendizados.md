@@ -1,0 +1,2 @@
+# Aprendizados da Semana 
+Essa semana aprendi a utilizar o gitbash e o github **gostei muito** de ter aprendido algo novo e de estar sendo um super **desafio** para mim que não tinha nenhuma noção sobre **codar**
